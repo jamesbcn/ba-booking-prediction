@@ -1,0 +1,16 @@
+# Core
+pandas==2.3.0
+numpy==2.2.6
+
+# Visualization
+matplotlib==3.10.3
+seaborn==0.13.2
+
+# Modeling & Resampling
+scikit-learn==1.4.2
+xgboost==2.0.3
+imbalanced-learn==0.12.2
+
+# Jupyter
+notebook==7.2.0
+ipykernel==6.29.5
